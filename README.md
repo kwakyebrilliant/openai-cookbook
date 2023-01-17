@@ -8,7 +8,7 @@ Most code examples are written in Python, though the concepts can be applied in 
 
 In the same way that a cookbook's recipes don't span all possible meals or techniques, these examples don't span all possible use cases or methods. Use them as starting points upon which to elaborate, discover, and invent.
 
-## Related resources
+## Related/ similar resources
 
 Beyond the code examples here, you can also learn about the [OpenAI API] from the following resources:
 
